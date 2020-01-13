@@ -1,0 +1,19 @@
+Create gitBootstrap folder under Projects
+Create gitBootstrap repository on GitHub
+
+Go to code directory and initialize the repository
+git init
+
+Add the files to the repository
+git add .
+git status
+
+commit files to repository
+git commit -m "First Commit"
+
+Add url for remote repository
+git remote add origin https//github.com/joelbell/gitBootstrap.git
+
+Push code to remote repository
+git push -u origin master
+
